@@ -3,7 +3,8 @@
 **The Portal gun in Hello Neighbor.** It works exactly like the portal game but be careful as the neighbor can also use your portals. GLaDOS comments on everything you
 do, and she replaces the thing.
 
-<!-- screenshot here -->
+<img width="2560" height="1440" alt="Screenshot (3057)" src="https://github.com/user-attachments/assets/7b6b17d8-d07f-4065-9caf-5c2a0728d841" />
+
 
 > Unofficial fan project, not affiliated with Valve, tinyBuild or Dynamic Pixels. The download contains **no Portal
 > files**: the installer takes the gun, GLaDOS and the sounds from **your own copy of Portal**.
