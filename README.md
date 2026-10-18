@@ -1,8 +1,7 @@
-# HelloPortal (Portal Neighbor)
+# HelloPortal
 
-**The Portal gun in Hello Neighbor.** Shoot blue and orange portals, see through them, walk, fall and fling through
-them, throw things through them, and watch the Neighbor chase you through them. GLaDOS comments on everything you
-do, and she replaces the final boss.
+**The Portal gun in Hello Neighbor.** It works exactly like the portal game but be careful as the neighbor can also use your portals. GLaDOS comments on everything you
+do, and she replaces the thing.
 
 <!-- screenshot here -->
 
@@ -24,8 +23,8 @@ do, and she replaces the final boss.
 
 ## Requirements
 
-- **Hello Neighbor** (full game) on Steam, on Windows
-- **Portal** (the 2007 game) on Steam. It can be in any Steam library; it only has to be installed.
+- **Hello Neighbor** (full game) on Steam and installed
+- **Portal** (the 2007 game) on Steam and installed
 
 ## Install
 
